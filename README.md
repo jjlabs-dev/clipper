@@ -1,7 +1,5 @@
-# Clipper
-
 <p align="center">
-  <img src="./branding/clipper.svg" alt="Clipper Logo" width="128" height="128">
+  <img src="./branding/clipper.svg" alt="Clipper Logo" width="300" height="300">
 </p>
 
 <p align="center">
