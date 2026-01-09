@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./branding/clipper.svg" alt="Clipper Logo" width="300" height="300">
+  <img src="https://gitlab.com/jjlabs-dev/clipper/-/raw/main/branding/clipper.svg" alt="Clipper Logo" width="300" height="300">
 </p>
 
 <p align="center">
